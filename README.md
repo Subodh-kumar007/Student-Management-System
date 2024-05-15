@@ -1,6 +1,4 @@
 # Student-Management-System
-### Python GUI Student Management System with SQLite Database
-
 #### Overview
 Developed a robust Student Management System using Python, Tkinter for the graphical user interface (GUI), and SQLite3 for the database. This application is designed to streamline the management of student data, making it efficient for educational institutions to handle tasks such as student registration, record updates, and information retrieval.
 
