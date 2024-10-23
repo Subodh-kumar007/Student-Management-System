@@ -22,3 +22,5 @@ Developed a robust Student Management System using Python, Tkinter for the graph
 The Python GUI Student Management System with SQLite3 database greatly enhances the efficiency of administrative tasks within educational institutions. By automating the management of student records, the system allows staff to focus more on educational activities, thereby improving overall productivity and service quality.
 
 This project highlights my ability to develop practical software solutions that meet real-world needs, showcasing strong technical skills in programming, database management, and user interface design.
+
+![Screenshot 2024-10-23 201457](https://github.com/user-attachments/assets/705bd15d-195a-4a78-8f54-47470cdfa879)
